@@ -10,7 +10,7 @@ H = float(input("Enter Your Height: "))
 if H <= 0:
     print("Height is Invalid")
 
-if w <= 0:
+if W <= 0:
     print("Weight is Invalid")
 
 # Calculation
